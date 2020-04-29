@@ -1,0 +1,45 @@
+.adalfyrirsogn{
+    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.imagine{
+    border: 0px solid white;
+    margin-left: 30px;
+    color: blue;
+}
+.namskrofur{
+    border: 0px solid white;
+    margin-left: 30px;
+}
+
+body{
+    background: white;
+    border: solid blue;
+    padding: 15px;
+    width: 800px;
+    margin: 0 auto;
+}
+.raudur{
+    color: red;
+}
+.blar{
+    color: blue
+}
+.blarogska{
+    color: blue;
+}
+.adalfyrirsognelvis{
+    color: peru;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.elvistexti{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:
+}
+.LoremIpsum{
+    background: white;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0px, solid, blue;
+}
